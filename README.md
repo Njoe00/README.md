@@ -1,1 +1,5 @@
-# [Your Name]'s Notes 
+# [Nick's] Notes 
+## Summary 
+
+This repository contains all of the notes taken by [Nick](https://github.com/Njoe00) for the [Lighthouse Labs](https://www.lighthouselabs.ca/) Web Development Bootcamp.
+
